@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omegasoftdll-crest.svg" alt="OmegaSoftDLL — Sovereign DeepTech Crest" width="92" height="92" align="left" />
+  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omegasoftdll-crest.svg?v=2" alt="OmegaSoftDLL — Sovereign DeepTech Crest" width="92" height="92" align="left" />
   Ricardo Bueno (<code>@OmegaSoftDLL</code>)<br />
   <sub>Founder &amp; Principal Systems Architect · <b>Omega DeepTech Systems Inc. (ODSI)</b> · Creator of <b>Lume</b>, <b>LumeLabs</b>, <b>OmegaDesk</b> &amp; <b>Omega LLM</b></sub>
 </h1>
@@ -23,7 +23,7 @@
 <br />
 
 <a href="https://github.com/OmegaSoftDLL/Lume">
-  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-hero-animated.svg" alt="Lume v1.1.0 Animated Sovereign Architecture Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-hero-animated.svg?v=2" alt="Lume v1.1.0 Animated Sovereign Architecture Banner" width="100%" />
 </a>
 
 </div>
@@ -34,12 +34,12 @@
 
 | Project / Projeto | Repository & Portal Links | Core Architecture & Tech Stack | Key Highlights & Verification |
 | :---: | :--- | :--- | :--- |
-| <a href="https://github.com/OmegaSoftDLL/Lume"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/lume-mascot-badge.svg" alt="Lume" width="68" height="68" /></a><br />**🦎 Lume (`v1.1.0`)** | [**`OmegaSoftDLL/Lume`**](https://github.com/OmegaSoftDLL/Lume)<br />[Website](https://omegasoftdll.github.io/lume/) · [Wiki (11p)](https://github.com/OmegaSoftDLL/Lume/wiki) · [Projects #5](https://github.com/users/OmegaSoftDLL/projects/5) · [LumeLabs](https://github.com/OmegaSoftDLL/Lume/blob/main/LUMELABS.md) | **100% Native Lume (`.src`)** · Zero-C `lumec` + `lasm` · Embedded `QF_LIA`/`QF_NIA` Prover · 4-Tier Memory Compactor · 27 Targets | `stage2 == stage3` fixpoint · `413` formal proofs · `85/85` Claude + Red-Team audit · 9-Ecosystem Chameleon FFI (`[I0003]`) · `31.8x` faster |
-| <a href="https://github.com/OmegaSoftDLL/omegadesk"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omegadesk-badge.svg" alt="OmegaDesk" width="68" height="68" /></a><br />**🦅 OmegaDesk** | [**`OmegaSoftDLL/omegadesk`**](https://github.com/OmegaSoftDLL/omegadesk)<br />[Website](https://omegasoftdll.github.io/omegadesk/) · [Wiki (7p)](https://github.com/OmegaSoftDLL/omegadesk/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/omegadesk/blob/main/PROJECTS.md) | **Pure Rust + QUIC + WireGuard Mesh** · Self-Hosted Zero-Trust Remote Desktop · Hardware `H.264`/`AV1` (`DXGI`/`IddCx`) · Relay/RMM | Sub-`11ms` hardware encoding, P2P Magicsock + built-in WireGuard mesh, QuickSupport & enterprise session audit |
-| <a href="https://github.com/OmegaSoftDLL/omega-sovereign"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omega-sovereign-badge.svg" alt="Omega Sovereign" width="68" height="68" /></a><br />**⚡ Omega Sovereign** | [**`OmegaSoftDLL/omega-sovereign`**](https://github.com/OmegaSoftDLL/omega-sovereign)<br />[Website](https://omegasoftdll.github.io/omega-sovereign/) · [Wiki (5p)](https://github.com/OmegaSoftDLL/omega-sovereign/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/omega-sovereign/blob/main/PROJECTS.md) | **100% Native Lume** · Win64 PE32+ Native GUI (`OmegaSovereign_GUI.exe`) + Web Cockpit · Local Ollama (`Gemma 4 E2B` + `Ministral 3 3B`) | Multimodal local AI workstation, `34,816 B` native Win64 GUI with embedded Lumi `RT_ICON`, Chameleon `P33` (`28/28`) & GPU/Verilog kernels |
-| <a href="https://github.com/OmegaSoftDLL/lume.tmLanguage"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/lume-tmlanguage-badge.svg" alt="lume.tmLanguage" width="68" height="68" /></a><br />**🎨 lume.tmLanguage** | [**`OmegaSoftDLL/lume.tmLanguage`**](https://github.com/OmegaSoftDLL/lume.tmLanguage)<br />[Website](https://omegasoftdll.github.io/lume.tmLanguage/) · [Wiki (5p)](https://github.com/OmegaSoftDLL/lume.tmLanguage/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/lume.tmLanguage/blob/main/PROJECTS.md) | **TextMate Grammar + GitHub Linguist** · VS Code / Neovim / Zed / JetBrains Syntax Highlighting for `.lume` & `.src` | Full grammar coverage for `verify`, `req`/`ens`, `@bound`, `@secret`, algebraic effects, Perceus & Chameleon FFI |
-| <a href="https://github.com/OmegaSoftDLL/omega-llm"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omega-llm-badge.svg" alt="Omega LLM" width="68" height="68" /></a><br />**🧠 Omega LLM** | [**`OmegaSoftDLL/omega-llm`**](https://github.com/OmegaSoftDLL/omega-llm)<br />[Docs](https://github.com/OmegaSoftDLL/omega-llm/blob/main/docs/index.md) · [Wiki (5p)](https://github.com/OmegaSoftDLL/omega-llm/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/omega-llm/blob/main/PROJECTS.md) | **vLLM v0.30 + LangGraph + GKE + Terraform** · OpenAI Billing Gateway (`omk_*`) · gVisor Sandbox · TRL SFT/DPO/Mergekit Fabrica | `127/127` K8s 1.33 manifests · `9/9` Helm Qdrant · `50/50` pytest suites · 4 GPU phases (`L4`, `A100`, `H100`, `H200`) |
-| <a href="https://github.com/OmegaSoftDLL/guildyup"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/guildyup-badge.svg" alt="GuildyUP" width="68" height="68" /></a><br />**🛡️ GuildyUP** | [**`OmegaSoftDLL/guildyup`**](https://github.com/OmegaSoftDLL/guildyup)<br />[Spec v2.1](https://github.com/OmegaSoftDLL/guildyup/blob/main/GUILDYUP.md) · [Wiki (4p)](https://github.com/OmegaSoftDLL/guildyup/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/guildyup/blob/main/PROJECTS.md) | **TypeScript + NestJS + Prisma + PostgreSQL + Socket.IO** · `Guildy Match` Engine · Auto UTC Slot Finder · Steam Trophy Proof | 24 modules (`M01`–`M24`), 31 business rules (`RN-01`–`RN-31`), blind anti-retaliation reputation & `55` E2E/domain tests |
+| <a href="https://github.com/OmegaSoftDLL/Lume"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/lume-mascot-badge.svg?v=2" alt="Lume" width="68" height="68" /></a><br />**🦎 Lume (`v1.1.0`)** | [**`OmegaSoftDLL/Lume`**](https://github.com/OmegaSoftDLL/Lume)<br />[Website](https://omegasoftdll.github.io/lume/) · [Wiki (11p)](https://github.com/OmegaSoftDLL/Lume/wiki) · [Projects #5](https://github.com/users/OmegaSoftDLL/projects/5) · [LumeLabs](https://github.com/OmegaSoftDLL/Lume/blob/main/LUMELABS.md) | **100% Native Lume (`.src`)** · Zero-C `lumec` + `lasm` · Embedded `QF_LIA`/`QF_NIA` Prover · 4-Tier Memory Compactor · 27 Targets | `stage2 == stage3` fixpoint · `413` formal proofs · `85/85` Claude + Red-Team audit · 9-Ecosystem Chameleon FFI (`[I0003]`) · `31.8x` faster |
+| <a href="https://github.com/OmegaSoftDLL/omegadesk"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omegadesk-badge.svg?v=2" alt="OmegaDesk" width="68" height="68" /></a><br />**🦅 OmegaDesk** | [**`OmegaSoftDLL/omegadesk`**](https://github.com/OmegaSoftDLL/omegadesk)<br />[Website](https://omegasoftdll.github.io/omegadesk/) · [Wiki (7p)](https://github.com/OmegaSoftDLL/omegadesk/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/omegadesk/blob/main/PROJECTS.md) | **Pure Rust + QUIC + WireGuard Mesh** · Self-Hosted Zero-Trust Remote Desktop · Hardware `H.264`/`AV1` (`DXGI`/`IddCx`) · Relay/RMM | Sub-`11ms` hardware encoding, P2P Magicsock + built-in WireGuard mesh, QuickSupport & enterprise session audit |
+| <a href="https://github.com/OmegaSoftDLL/omega-sovereign"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omega-sovereign-badge.svg?v=2" alt="Omega Sovereign" width="68" height="68" /></a><br />**⚡ Omega Sovereign** | [**`OmegaSoftDLL/omega-sovereign`**](https://github.com/OmegaSoftDLL/omega-sovereign)<br />[Website](https://omegasoftdll.github.io/omega-sovereign/) · [Wiki (5p)](https://github.com/OmegaSoftDLL/omega-sovereign/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/omega-sovereign/blob/main/PROJECTS.md) | **100% Native Lume** · Win64 PE32+ Native GUI (`OmegaSovereign_GUI.exe`) + Web Cockpit · Local Ollama (`Gemma 4 E2B` + `Ministral 3 3B`) | Multimodal local AI workstation, `34,816 B` native Win64 GUI with embedded Lumi `RT_ICON`, Chameleon `P33` (`28/28`) & GPU/Verilog kernels |
+| <a href="https://github.com/OmegaSoftDLL/lume.tmLanguage"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/lume-tmlanguage-badge.svg?v=2" alt="lume.tmLanguage" width="68" height="68" /></a><br />**🎨 lume.tmLanguage** | [**`OmegaSoftDLL/lume.tmLanguage`**](https://github.com/OmegaSoftDLL/lume.tmLanguage)<br />[Website](https://omegasoftdll.github.io/lume.tmLanguage/) · [Wiki (5p)](https://github.com/OmegaSoftDLL/lume.tmLanguage/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/lume.tmLanguage/blob/main/PROJECTS.md) | **TextMate Grammar + GitHub Linguist** · VS Code / Neovim / Zed / JetBrains Syntax Highlighting for `.lume` & `.src` | Full grammar coverage for `verify`, `req`/`ens`, `@bound`, `@secret`, algebraic effects, Perceus & Chameleon FFI |
+| <a href="https://github.com/OmegaSoftDLL/omega-llm"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omega-llm-badge.svg?v=2" alt="Omega LLM" width="68" height="68" /></a><br />**🧠 Omega LLM** | [**`OmegaSoftDLL/omega-llm`**](https://github.com/OmegaSoftDLL/omega-llm)<br />[Docs](https://github.com/OmegaSoftDLL/omega-llm/blob/main/docs/index.md) · [Wiki (5p)](https://github.com/OmegaSoftDLL/omega-llm/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/omega-llm/blob/main/PROJECTS.md) | **vLLM v0.30 + LangGraph + GKE + Terraform** · OpenAI Billing Gateway (`omk_*`) · gVisor Sandbox · TRL SFT/DPO/Mergekit Fabrica | `127/127` K8s 1.33 manifests · `9/9` Helm Qdrant · `50/50` pytest suites · 4 GPU phases (`L4`, `A100`, `H100`, `H200`) |
+| <a href="https://github.com/OmegaSoftDLL/guildyup"><img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/guildyup-badge.svg?v=2" alt="GuildyUP" width="68" height="68" /></a><br />**🛡️ GuildyUP** | [**`OmegaSoftDLL/guildyup`**](https://github.com/OmegaSoftDLL/guildyup)<br />[Spec v2.1](https://github.com/OmegaSoftDLL/guildyup/blob/main/GUILDYUP.md) · [Wiki (4p)](https://github.com/OmegaSoftDLL/guildyup/tree/main/docs/wiki) · [Roadmap](https://github.com/OmegaSoftDLL/guildyup/blob/main/PROJECTS.md) | **TypeScript + NestJS + Prisma + PostgreSQL + Socket.IO** · `Guildy Match` Engine · Auto UTC Slot Finder · Steam Trophy Proof | 24 modules (`M01`–`M24`), 31 business rules (`RN-01`–`RN-31`), blind anti-retaliation reputation & `55` E2E/domain tests |
 
 ---
 
@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://github.com/OmegaSoftDLL/Lume/wiki/Universal-Chameleon-Polyglot-Engine">
-    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-chameleon-showcase.svg" alt="Lume Universal Chameleon 9-Ecosystem Polyglot Interop Engine" width="100%" />
+    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-chameleon-showcase.svg?v=2" alt="Lume Universal Chameleon 9-Ecosystem Polyglot Interop Engine" width="100%" />
   </a>
 </div>
 
@@ -80,7 +80,7 @@
 
 | Lumi — 3D Bioluminescent Chameleon Mascot | 9-Ecosystem Chameleon Polyglot Emblem | Official 3D App &amp; Win64 GUI Icon (`RT_ICON`) | Vector Crest &amp; Badge |
 | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-mascot.jpg" alt="Lumi — 3D Bioluminescent Chameleon Mascot" width="210" /> | <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-chameleon-emblem.jpg" alt="9-Ecosystem Chameleon Polyglot Emblem" width="210" /> | <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-icon.jpg" alt="Official 3D App & Win64 GUI Icon" width="210" /> | <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-mascot-badge.svg" alt="Vector Crest & Favicon" width="150" /> |
+| <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-mascot.jpg" alt="Lumi — 3D Bioluminescent Chameleon Mascot" width="210" /> | <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-chameleon-emblem.jpg" alt="9-Ecosystem Chameleon Polyglot Emblem" width="210" /> | <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-icon.jpg" alt="Official 3D App & Win64 GUI Icon" width="210" /> | <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-mascot-badge.svg?v=2" alt="Vector Crest & Favicon" width="150" /> |
 | **Lumi Mascot (`lume-mascot.jpg`)** | **Chameleon Emblem (`[I0003]`)** | **Embedded in `x86_64-windows-gui` (`.exe`)** | **Sovereign Crest (`SVG`)** |
 
 </div>
@@ -91,7 +91,7 @@
 
 <div align="center">
   <a href="https://github.com/OmegaSoftDLL/Lume/wiki/Memory-Saga-and-Atomic-Compactor">
-    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-memory-evolution-animated.svg" alt="Lume 3-Generation Memory Evolution Benchmark" width="100%" />
+    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-memory-evolution-animated.svg?v=2" alt="Lume 3-Generation Memory Evolution Benchmark" width="100%" />
   </a>
 </div>
 
@@ -101,11 +101,11 @@
 
 <div align="center">
   <a href="https://github.com/OmegaSoftDLL/Lume/blob/main/LUMELABS.md">
-    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lumelabs-hero-animated.svg" alt="LumeLabs 7 Sovereign R&D Divisions" width="100%" />
+    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lumelabs-hero-animated.svg?v=2" alt="LumeLabs 7 Sovereign R&D Divisions" width="100%" />
   </a>
   <br />
   <a href="https://github.com/OmegaSoftDLL/Lume/blob/main/PROJECTS.md">
-    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-projects-board.svg" alt="Lume v1.1.0 Sovereign Engineering Projects Board" width="100%" />
+    <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-projects-board.svg?v=2" alt="Lume v1.1.0 Sovereign Engineering Projects Board" width="100%" />
   </a>
 </div>
 
