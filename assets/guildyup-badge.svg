@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13 13 134 134" width="160" height="160" role="img" aria-label="GuildyUP — Achievement Shield & Upward Arrow Badge">
+  <defs>
+    <radialGradient id="guildBg" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#064E3B"/>
+      <stop offset="60%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <linearGradient id="shieldRim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="50%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <linearGradient id="arrowGold" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#D97706"/>
+      <stop offset="50%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#FEF08A"/>
+    </linearGradient>
+    <filter id="shieldGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .ring-spin { transform-origin: 80px 80px; animation: spin 20s linear infinite; }
+      .arrow-pulse { animation: floatUp 2.6s ease-in-out infinite; }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes floatUp { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-3px); } }
+      @media (prefers-reduced-motion: reduce) { .ring-spin, .arrow-pulse { animation: none; } }
+    </style>
+  </defs>
+
+  <circle cx="80" cy="80" r="64" fill="url(#guildBg)" stroke="url(#shieldRim)" stroke-width="3.5"/>
+  <circle cx="80" cy="80" r="56" fill="none" stroke="#10B981" stroke-width="1" stroke-opacity="0.4" stroke-dasharray="5 5" class="ring-spin"/>
+
+  <!-- Achievement Shield -->
+  <path d="M 80 30 L 116 44 L 116 76 C 116 101 99 118 80 126 C 61 118 44 101 44 76 L 44 44 Z"
+        fill="#065F46" fill-opacity="0.55" stroke="url(#shieldRim)" stroke-width="3" filter="url(#shieldGlow)"/>
+
+  <!-- Upward Achievement Arrow & Trophy Star -->
+  <g class="arrow-pulse" filter="url(#shieldGlow)">
+    <path d="M 80 44 L 98 64 L 87 64 L 87 96 L 73 96 L 73 64 L 62 64 Z" fill="url(#arrowGold)"/>
+    <circle cx="80" cy="106" r="4" fill="#10B981"/>
+  </g>
+
+  <text x="80" y="136" text-anchor="middle" fill="#F8FAFC" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="800" letter-spacing="1.4">GUILDYUP</text>
+</svg>
