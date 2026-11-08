@@ -1,23 +1,23 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-mascot-badge.svg" alt="Lumi — Official Lume Mascot" width="88" height="88" align="left" />
+  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omegasoftdll-crest.svg" alt="OmegaSoftDLL — Sovereign DeepTech Crest" width="92" height="92" align="left" />
   Ricardo Bueno (<code>@OmegaSoftDLL</code>)<br />
-  <sub>Principal Systems &amp; Language Architect · Creator of <b>Lume</b> &amp; <b>LumeLabs</b> · Omega DeepTech Systems Inc. (ODSI)</sub>
+  <sub>Founder &amp; Principal Systems Architect · <b>Omega DeepTech Systems Inc. (ODSI)</b> · Creator of <b>Lume</b>, <b>LumeLabs</b>, <b>OmegaDesk</b> &amp; <b>Omega LLM</b></sub>
 </h1>
 <br clear="left"/>
 
 <div align="center">
 
 [![Flagship: Lume v1.1.0](https://img.shields.io/badge/Flagship-Lume_v1.1.0_(2026_Edition)-10b981?style=for-the-badge&logo=github)](https://github.com/OmegaSoftDLL/Lume)
-[![Self-Hosted Fixpoint](https://img.shields.io/badge/Bootstrap-stage2_%3D%3D_stage3_(Zero--C)-38bdf8?style=for-the-badge)](https://github.com/OmegaSoftDLL/Lume/actions/workflows/ci.yml)
-[![Claude Opus 5.5 + Red Team](https://img.shields.io/badge/Claude_Opus_5.5_+_Red_Team-85%2F85_Passed-a855f7?style=for-the-badge)](https://github.com/OmegaSoftDLL/Lume/blob/main/tests/harness/claude_audit_gate.src)
+[![OmegaDesk Rust QUIC](https://img.shields.io/badge/OmegaDesk-Rust_QUIC_+_WireGuard-00e5ff?style=for-the-badge)](https://github.com/OmegaSoftDLL/omegadesk)
+[![Omega Sovereign AI](https://img.shields.io/badge/Omega_Sovereign-Native_Lume_AI_Workstation-38bdf8?style=for-the-badge)](https://github.com/OmegaSoftDLL/omega-sovereign)
+[![Omega LLM Platform](https://img.shields.io/badge/Omega_LLM-vLLM_+_LangGraph_GKE-a855f7?style=for-the-badge)](https://github.com/OmegaSoftDLL/omega-llm)
 [![Chameleon Polyglot](https://img.shields.io/badge/Chameleon_Interop-9_Ecosystems_%5BI0003%5D-f59e0b?style=for-the-badge)](https://github.com/OmegaSoftDLL/Lume/wiki/Universal-Chameleon-Polyglot-Engine)
-[![27 Targets](https://img.shields.io/badge/Compilation_Targets-27_Native_%2F_GPU_%2F_Quantum-ec4899?style=for-the-badge)](https://github.com/OmegaSoftDLL/Lume/wiki/27-Universal-Compilation-Targets)
 [![LumeLabs R&D](https://img.shields.io/badge/LumeLabs-7_R%26D_Divisions-6366f1?style=for-the-badge)](https://github.com/OmegaSoftDLL/Lume/blob/main/LUMELABS.md)
 
 <br />
 
-<a href="https://github.com/OmegaSoftDLL/Lume">
-  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/Lume/main/docs/assets/lume-social-banner.jpg" alt="Lume v1.1.0 — The Self-Hosted, Formally Verified Systems, Polyglot, AI & Quantum Programming Language" width="100%" />
+<a href="https://github.com/OmegaSoftDLL">
+  <img src="https://raw.githubusercontent.com/OmegaSoftDLL/OmegaSoftDLL/main/assets/omegasoftdll-hero-banner.jpg" alt="OmegaSoftDLL — Omega DeepTech Systems Inc. (Sovereign AI, Formally Verified Compilers, Quantum Computing & Ultra-Low-Latency Systems)" width="100%" />
 </a>
 
 <br />
