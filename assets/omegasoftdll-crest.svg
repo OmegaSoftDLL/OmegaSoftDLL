@@ -44,7 +44,7 @@
   <circle cx="80" cy="80" r="67" fill="url(#odsi-bg)" stroke="url(#odsi-rim)" stroke-width="4.5"/>
   <circle cx="80" cy="80" r="61" fill="none" stroke="url(#odsi-rim)" stroke-width="1.4" stroke-dasharray="10 6" class="odsi-ring" opacity="0.85"/>
 
-  <!-- Quantum & Neural Hexagonal Grid Lattice -->
+  <!-- Quantum &amp; Neural Hexagonal Grid Lattice -->
   <polygon points="80,22 130,51 130,109 80,138 30,109 30,51" fill="none" stroke="#1E293B" stroke-width="1.2" opacity="0.8"/>
   <line x1="80" y1="22" x2="80" y2="138" stroke="#00E5FF" stroke-width="0.7" opacity="0.25"/>
   <line x1="30" y1="51" x2="130" y2="109" stroke="#8B5CF6" stroke-width="0.7" opacity="0.25"/>

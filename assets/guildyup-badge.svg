@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="13 13 134 134" width="160" height="160" role="img" aria-label="GuildyUP — Achievement Shield & Upward Arrow Badge">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13 13 134 134" width="160" height="160" role="img" aria-label="GuildyUP — Achievement Shield &amp; Upward Arrow Badge">
   <defs>
     <radialGradient id="guildBg" cx="50%" cy="45%" r="55%">
       <stop offset="0%" stop-color="#064E3B"/>
@@ -38,7 +38,7 @@
   <path d="M 80 30 L 116 44 L 116 76 C 116 101 99 118 80 126 C 61 118 44 101 44 76 L 44 44 Z"
         fill="#065F46" fill-opacity="0.55" stroke="url(#shieldRim)" stroke-width="3" filter="url(#shieldGlow)"/>
 
-  <!-- Upward Achievement Arrow & Trophy Star -->
+  <!-- Upward Achievement Arrow &amp; Trophy Star -->
   <g class="arrow-pulse" filter="url(#shieldGlow)">
     <path d="M 80 44 L 98 64 L 87 64 L 87 96 L 73 96 L 73 64 L 62 64 Z" fill="url(#arrowGold)"/>
     <circle cx="80" cy="106" r="4" fill="#10B981"/>
